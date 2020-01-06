@@ -1,0 +1,15 @@
+@charset "utf-8";
+.access {
+    padding: 100px 50px 60px;
+    color: #5a5c5f;
+    background-color: #fff0f5;
+}
+.access-title {
+    margin-bottom: 14px;
+}
+.access-text {
+    margin-bottom: 14px;
+    font-size: 15px
+}
+.google-map {
+}
